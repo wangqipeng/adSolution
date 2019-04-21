@@ -1,5 +1,5 @@
 # adSolution
-RTB related solution which plan to cover the main problem in this field  
+RTB related solutions which plan to cover the main problems in this field  
 1.user response prediction  
 2.OCPC  
 3.bid optimization  
